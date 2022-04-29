@@ -2,7 +2,7 @@
 
 - This repo has ready to use express server with MVC structure that have login/register route and controllers ready to use with JWT and password hashing and a client folder with minimum react files.
 
-- ### git clone https://github.com/FadiAbdullah90/express-react-start.git
+- `git clone https://github.com/FadiAbdullah90/express-react-start.git`
 
 - After cloning the repo you need to go the main folder and **npm install** to download the packeges needed for the app and then go to the client folder and **npm install** there too or delete every thing in there and use ( **Npx Create-React-App ./)** istead to start from scratch there.
 - server packeges are :
