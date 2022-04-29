@@ -5,15 +5,15 @@
 - After cloning the repo you need to go the main folder and **npm install** to download the packeges needed for the app and then go to the client folder and **npm install** there too or delete every thing in there and use ( **Npx Create-React-App ./)** istead to start from scratch there.
 - server packeges are :
 
-  1. express
-  2. mongoose
-  3. nodemon 'dev'
-  4. dotenv
-  5. express-async-errors
-  6. jsonwebtoken
-  7. bcryptjs
-  8. validator
-  9. http-status-codes
+  - express
+  - mongoose
+  - nodemon 'dev'
+  - dotenv
+  - express-async-errors
+  - jsonwebtoken
+  - bcryptjs
+  - validator
+  - http-status-codes
 
 - You need to add .env file and add the following variables :
   MONGO_URI : Your connection string to mongoDB .
